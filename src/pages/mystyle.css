@@ -1,0 +1,278 @@
+p { 
+  width: 32px;
+  height: 17px;
+  margin: 9px 223px 7px 1px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: 500;
+  color: #000;
+}
+.p1 {
+    width: 42px;
+    height: 23px;
+    margin: 7px 213px 7px 1px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: bold;    
+    text-align: center;
+    color: #000;
+}
+.p2 {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: normal;
+    color: #000;
+    float: left;
+    margin: 10px 15px 10px 15px
+}
+.Desktop---1 {
+    /* width: 1600px; */
+    /* height: 1600px; */
+    /* flex-grow: 0; */
+    padding: 0px;
+    background-color: #fff;
+  }
+  .picture {
+    width: 1800px; 
+    height: 380.8px;
+    /* margin: 0 0 110.2px; */
+    padding: 0px;
+    border-radius: 10px;
+    position: relative;
+  }
+  .RENT-NOW {
+    width: 250px;
+    height: 70px;
+    margin: -220px 765px -10px;
+    font-family: Poppins;
+    font-size: 45px;
+    font-weight: 500;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+  }
+  .Tenant-Type {
+    width: 122px;
+    height: 30px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 20;
+    text-align: center;
+    color: #000;
+    float: left;
+  }
+  .Move-in {
+    width: 83px;
+    height: 30px;
+    margin: 33px 207px 36px 215px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+  .centre-box {
+    width: 1060px;
+    height: 200px;
+    margin: -100px 350px -10px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    position: absolute;
+  }
+  .All {
+    width: 200px;
+    height: 30px;
+    margin: 0 0 34px 4px;
+    padding: 40px 41px 30px 30px;
+    background-color: #fff;
+    float: left;
+  }
+  .font {
+    margin: 3px 78px 33px 150px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: right;
+    color: #000;
+  }
+  .storage-box1 {
+    width: 200px;
+    height: 30px;
+    margin: 0 0 34px 4px;
+    padding: 40px 41px 30px 30px;
+    border-bottom: solid 3px #ff9831;
+    background-color: #fff;
+    float: left;
+  }
+  .storage-box2 {
+    width: 180px;
+    height: 30px;
+    margin: 0 0 34px 4px;
+    padding: 40px 41px 30px 30px;
+    background-color: #fff;
+    float: left;
+  }
+  .unit-1 {
+    width: 37px;
+    height: 23.1px;
+    margin: 0 10px 0;
+  }
+  .office-1 {
+    width: 27.8px;
+    height: 32.7px;
+    margin: 0 10px 0;
+  }
+  .Self-Storage {
+    width: 122px;
+    height: 30px;
+    margin: 0 0 0 10px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    color: #ff9831;
+  }
+  .Storage {
+    width: 122px;
+    height: 30px;
+    margin: 0 0 0 10px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    color: #000;
+  }
+  .Rectangle-3 {
+    width: 90px;
+    height: 30px;
+    margin: 100px 4px 0 0;
+    padding: 35px 96px 36px;
+    background-color: #eeeeec;
+  }
+  .filter-box {
+    width: 150px;
+    height: 39px;
+    margin: 130px 168px 10px 70px;
+    padding: 0 123px 4px 0;
+    background-color: #fff;
+  }
+  .filter-img {
+    width: 40px;
+    height: 42px;
+    margin: 0 11px 6.3px 0;
+  }
+  .Filters {
+    width: 83px;
+    height: 35px;
+    margin: 0 0 0 11px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 500;
+    text-align: center;
+    color: #000;
+    float: right;
+  }
+  .Left-side-box {
+    width: 380px;
+    height: 450px;
+    margin: 10px 33px 582px 70px;
+    padding: 35px 10px 38px 11px;
+    border: solid 2px #ff9831;
+    background-color: #fff;
+  }
+  .left-box-1 {
+    width: 180px;
+    height: 42px;
+    margin: 0 1px 25px 0;
+    padding: 3px 160px 3px 40px;
+    border-bottom:  solid 0.5px rgb(211, 209, 209);
+    background-color: #fff;
+  }
+  .plus {
+    width: 20px;
+    height: 20px;
+    margin: 8px 22px 0px 0;
+  }
+  .Locations {
+    width: 100px;
+    height: 36px;
+    margin: 0 0 22px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    color: #000;
+  }
+  .Dimensions {
+    width: 150px;
+    height: 36px;
+    margin: 0 0 22px;
+    font-family: Poppins;
+    font-size: 21.7px;
+    font-weight: 500;
+    text-align: center;
+    color: #000;
+  }
+  .total-box {
+    width: 1180px;
+    height: 1057px;
+    margin: -1135px -40px 0px 550px;
+    padding: 27px 16px 94px 7px;
+    background-color: #fff;
+  }
+  .Box---1, .Box---4 {
+    width: 380px;
+    height: 505px;
+    margin: 0 10px 40px 0;
+    padding: 0 0 21px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    float: left;
+  }
+  .Box---2, .Box---5 {
+    width: 380px;
+    height: 505px;
+    margin: 0 10px 40px;
+    padding: 0 0 21px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    float: left;
+  }
+  .Box---3, .Box---6 {
+    width: 380px;
+    height: 505px;
+    margin: 0 0 40px 10px;
+    padding: 0 0 21px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    float: left;
+  }
+  .Box-img {
+    width: 380px;
+    height: 220px;
+    margin: 0 0 15.2px;
+  }
+  .Rectangle-4 {
+    width: 160px;
+    height: 29px;
+    margin: 15.2px 96px 9px 0;
+    padding: 6px 18px 6px 17px;
+    background-color: #eeeeec;
+  }
+  .Rectangle-5 {
+    width: 365px;
+    height: 79px;
+    margin: 7px 0 20px;
+    padding: 12px 8px 16px 7px;
+    background-color: #fff;
+  }
+  @media screen and (orientation: portrait) {
+    .Desktop---1 {
+      width: 100%;
+    }
+  }
